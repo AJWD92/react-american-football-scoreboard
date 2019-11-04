@@ -48,7 +48,7 @@ function App() {
           <button onClick={() => setAwayScore(awayScore + 2)} className="awayButtons__twoPointConversion">2 Point Conversion</button>
         </div>
         <div className="restButton">
-          <button onClick={reset} className='resetButtons__reset'>Reset Game</button>
+          <button onClick={reset} className='resetButtons__reset'>Reset</button>
         </div>
       </section>
     </div>

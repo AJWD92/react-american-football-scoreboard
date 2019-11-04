@@ -119,7 +119,9 @@
 .awayButtons__fieldGoal,
 .homeButtons__extraPoint,
 .awayButtons__extraPoint,
-.reset {
+.homeButtons__twoPointConversion,
+.awayButtons__twoPointConversion
+.resetButtons__reset {
   margin: 1rem;
   border-radius: 4px;
 }
